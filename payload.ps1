@@ -1,4 +1,4 @@
-$ServerUrl = 'http://scroom.duckdns.org:3000/endpoint' # Define your server URL here
+$ServerUrl = 'http://10.0.0.237:3000/endpoint'
 
 function Upload-Server {
     param (
